@@ -6,7 +6,7 @@
   "env": {
      "UserName": {
       "description": "Please enter Your MEGA.NZ Username/Email.",
-      "value": "example@mail.com"
+      "value": "stuzxlio@karenkey.com"
     },
      "Heroku_Email_Id": {
       "description": "Enter Your Currently using Heroku Email. Its optional only if you need auto quota bypass. Your information is secure between you and Heroku.",
@@ -26,7 +26,7 @@
     },
      "PassWord": {
       "description": "Please enter your MEGA.NZ Password.",
-      "value": "enter-your-mega-password"
+      "value": "Waseem@55"
     }
 
 
